@@ -1,11 +1,11 @@
 
-made by MineGuy0 
+Made By MineGuy0
 For survival and server
 Free for anyone
 
 -- support the creator of this product on socials
 -- Youtube: https://www.youtube.com/channel/UClu7O8yRxndtDNDrP0Ky-yw
-- Twitter: https://twitter.com/MineGuy0
+-- Twitter: https://twitter.com/MineGuy0
 
 When adding to your world or server you have to do the following steps:
 
