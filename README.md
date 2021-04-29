@@ -1,8 +1,8 @@
-=============================
-===== made by MineGuy0 ========
-===== For survival and server ======
-===== Free for anyone ===========
-=============================
+
+made by MineGuy0 
+For survival and server
+Free for anyone
+
 -- support the creator of this product on socials
 -- Youtube: https://www.youtube.com/channel/UClu7O8yRxndtDNDrP0Ky-yw
 - Twitter: https://twitter.com/MineGuy0
